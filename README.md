@@ -10,7 +10,7 @@ a defined timeframe.
 Prioritize model training to achieve high recall, ensuring the model is highly sensitive to identifying potential stroke cases.
 Investigate and implement suitable ML algorithms for time-to-event analysis and probability prediction, such as survival analysis models or recurrent neural networks.
 Identify and utilize relevant features from patient medical history, demographics, lifestyle factors, and potentially genetic information for accurate prediction.
-Provide a clear and interpretable output that quantifies stroke risk and offers insights into contributing factors.
+
 Project Significance:
 
 Early stroke detection is crucial: Timely intervention significantly reduces the risk of long-term disability and mortality associated with strokes.
@@ -20,8 +20,6 @@ Project Deliverables:
 
 A fully trained and validated ML model capable of predicting stroke risk within a specific timeframe.
 A detailed report outlining the model development process, including data preprocessing, feature engineering, model selection, and performance evaluation metrics.
-Analysis of the model's strengths and limitations, including potential biases and areas for future improvement.
-An interactive visualization dashboard (optional) to facilitate user-friendly exploration of individual risk predictions and contributing factors.
 This project has the potential to significantly impact public health by providing a valuable tool for early stroke detection and prevention. The emphasis on recall ensures that the model prioritizes identifying individuals at risk, empowering healthcare professionals to take proactive measures and potentially save lives.
 
 Dataset is avalaible at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
